@@ -23,3 +23,5 @@ czas.sleep()	time.sleep()
 
 
 This is Work in progress code. Some things may not work. Poorly tested
+
+Download the latest version from [releases](https://github.com/Franstyk/COBRA-programming-launguage-interpreter/releases)
